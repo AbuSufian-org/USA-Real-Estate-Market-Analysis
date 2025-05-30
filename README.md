@@ -32,7 +32,7 @@ Here are the major analyses I performed and the stories the data told me:
 
 ### 1. Average Property Price by State  
 Hawaii leads with an average price of ~$1.4M—no surprise given its paradise appeal. But the Virgin Islands, California, and New York aren’t far behind.  
-<img width="429" alt="Image" src="https://github.com/user-attachments/assets/5307052c-f82b-4334-b1f4-67c34afe0d26" />
+<img width="412" alt="Image" src="https://github.com/user-attachments/assets/5ae5b7e4-9966-4c55-a5f2-e9592cd7d3ff" />
 
 ### 2. Top 10 Cities with Highest Median Prices  
 Cities like **Rancho Santa Fe** ($4.97M) and **Malibu** ($3.97M) top the charts. These aren’t just cities—they’re luxury destinations.  
@@ -51,7 +51,7 @@ Here’s something interesting: **Bathrooms affect price more than bedrooms.**
 Even with the same number of beds, homes with more baths are consistently more expensive.  
 *If you’re renovating, consider adding a bathroom over a bedroom!*
 
-<img width="407" alt="Image" src="https://github.com/user-attachments/assets/7e22a8ef-c576-466c-a568-f6ee9b0a85f1" />
+<img width="410" alt="Image" src="https://github.com/user-attachments/assets/5fb69b81-4990-4bdf-b698-04b61991b6cb" />
 
 ### 🌾 6. Acre Lot Size vs. Price  
 Larger lots = higher price? Not always. This varies drastically by state.  
