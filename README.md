@@ -50,7 +50,8 @@ Yes, more bedrooms mean a higher price—but not always. The relationship is not
 Here’s something interesting: **Bathrooms affect price more than bedrooms.**  
 Even with the same number of beds, homes with more baths are consistently more expensive.  
 *If you’re renovating, consider adding a bathroom over a bedroom!*
-<img width="366" alt="Image" src="https://github.com/user-attachments/assets/61106d7b-39b2-4715-a89a-4cd20922c075" />
+
+<img width="407" alt="Image" src="https://github.com/user-attachments/assets/7e22a8ef-c576-466c-a568-f6ee9b0a85f1" />
 
 ### 🌾 6. Acre Lot Size vs. Price  
 Larger lots = higher price? Not always. This varies drastically by state.  
