@@ -30,27 +30,27 @@ To find the answers, I used Python, Pandas, Seaborn, and Matplotlib to clean, ex
 
 Here are the major analyses I performed and the stories the data told me:
 
-### 🗺 1. Average Property Price by State  
+### 1. Average Property Price by State  
 Hawaii leads with an average price of ~$1.4M—no surprise given its paradise appeal. But the Virgin Islands, California, and New York aren’t far behind.  
-➡ <img width="429" alt="Image" src="https://github.com/user-attachments/assets/5307052c-f82b-4334-b1f4-67c34afe0d26" />
-<img width="676" alt="Image" src="https://github.com/user-attachments/assets/c360c990-d0c0-4096-b5af-18c192ca5afc" />
+<img width="429" alt="Image" src="https://github.com/user-attachments/assets/5307052c-f82b-4334-b1f4-67c34afe0d26" />
 
-### 🏙️ 2. Top 10 Cities with Highest Median Prices  
+### 2. Top 10 Cities with Highest Median Prices  
 Cities like **Rancho Santa Fe** ($4.97M) and **Malibu** ($3.97M) top the charts. These aren’t just cities—they’re luxury destinations.  
-➡️ *Bar chart showing city-wise price distribution*
+<img width="486" alt="Image" src="https://github.com/user-attachments/assets/d94a2243-e183-4831-a0b4-480c98002aa9" />
 
-### 📐 3. Home Size Distribution  
+### 3. Home Size Distribution  
 Most homes fall between 1,000–3,000 sqft, which seems to be the sweet spot for American living.  
-➡️ *Histogram + boxplot*
+<img width="474" alt="Image" src="https://github.com/user-attachments/assets/f7d62b03-6df0-4489-9d6d-32c88af6a2a6" />
 
-### 🛏️ 4. Beds vs. Price  
-Yes, more bedrooms mean more price—but not always. The relationship is not perfectly linear.  
-➡️ *Boxplot*
+### 4. Beds vs. Price  
+Yes, more bedrooms mean a higher price—but not always. The relationship is not perfectly linear.  
+<img width="429" alt="Image" src="https://github.com/user-attachments/assets/0351813b-4148-4c02-8b1a-3595cf41a723" />
 
-### 🛁 5. Bathrooms vs. Price — The Real Influencer  
-Here’s something interesting: **bathrooms affect price more than bedrooms.**  
+### 5. Bathrooms vs. Price — The Real Influencer  
+Here’s something interesting: **Bathrooms affect price more than bedrooms.**  
 Even with the same number of beds, homes with more baths are consistently more expensive.  
-💡 *If you’re renovating, consider adding a bathroom over a bedroom!*
+*If you’re renovating, consider adding a bathroom over a bedroom!*
+<img width="366" alt="Image" src="https://github.com/user-attachments/assets/61106d7b-39b2-4715-a89a-4cd20922c075" />
 
 ### 🌾 6. Acre Lot Size vs. Price  
 Larger lots = higher price? Not always. This varies drastically by state.  
