@@ -31,8 +31,9 @@ To find the answers, I used Python, Pandas, Seaborn, and Matplotlib to clean, ex
 Here are the major analyses I performed and the stories the data told me:
 
 ### 🗺 1. Average Property Price by State  
-Hawaii leads with an average price of ~$1.2M—no surprise given its paradise appeal. But the Virgin Islands, California, and New York aren’t far behind.  
+Hawaii leads with an average price of ~$1.4M—no surprise given its paradise appeal. But the Virgin Islands, California, and New York aren’t far behind.  
 ➡ <img width="429" alt="Image" src="https://github.com/user-attachments/assets/5307052c-f82b-4334-b1f4-67c34afe0d26" />
+<img width="676" alt="Image" src="https://github.com/user-attachments/assets/c360c990-d0c0-4096-b5af-18c192ca5afc" />
 
 ### 🏙️ 2. Top 10 Cities with Highest Median Prices  
 Cities like **Rancho Santa Fe** ($4.97M) and **Malibu** ($3.97M) top the charts. These aren’t just cities—they’re luxury destinations.  
