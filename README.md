@@ -32,7 +32,7 @@ Here are the major analyses I performed and the stories the data told me:
 
 ### 1. Average Property Price by State  
 Hawaii leads with an average price of ~$1.4M—no surprise given its paradise appeal. But the Virgin Islands, California, and New York aren’t far behind.  
-<img width="412" alt="Image" src="https://github.com/user-attachments/assets/5ae5b7e4-9966-4c55-a5f2-e9592cd7d3ff" />
+<img width="395" alt="Image" src="https://github.com/user-attachments/assets/136170df-27bb-421b-9e96-cc7f787ee4ca" />
 
 ### 2. Top 10 Cities with Highest Median Prices  
 Cities like **Rancho Santa Fe** ($4.97M) and **Malibu** ($3.97M) top the charts. These aren’t just cities—they’re luxury destinations.  
