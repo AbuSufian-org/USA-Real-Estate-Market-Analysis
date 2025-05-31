@@ -40,7 +40,7 @@ Cities like **Rancho Santa Fe** ($4.97M) and **Malibu** ($3.97M) top the charts.
 
 ### 3. Home Size Distribution  
 Most homes fall between 1,000–3,000 sqft, which seems to be the sweet spot for American living.  
-<img width="474" alt="Image" src="https://github.com/user-attachments/assets/f7d62b03-6df0-4489-9d6d-32c88af6a2a6" />
+<img width="412" alt="Image" src="https://github.com/user-attachments/assets/f3494627-5857-4040-94b5-a87e9ae345be" />
 
 ### 4. Beds vs. Price  
 Yes, more bedrooms mean a higher price—but not always. The relationship is not perfectly linear.  
@@ -62,6 +62,7 @@ Strongest price correlations?
 - `house_size` → 0.61  
 - `bath` → 0.61
 <img width="405" alt="Image" src="https://github.com/user-attachments/assets/f5eb34c3-18f9-4ee5-9b2b-45feaeface19" />
+
 Bedrooms? Much less important than I thought.
 
 ### 8. Most Common ZIP Codes  
@@ -130,6 +131,7 @@ Sometimes raw data isn’t enough. I created new features to get deeper insights
 ### Average Price per Sqft in Top 10 Cities  
 This chart shows where every square foot really costs you—NYC, LA, and Miami lead the pack.  
 *Lollipop chart that visually pops*
+
 <img width="413" alt="Image" src="https://github.com/user-attachments/assets/22a48a18-f656-411e-9844-fdc640c99d4d" />
 
 ---
