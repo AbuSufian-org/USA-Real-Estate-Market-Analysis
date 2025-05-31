@@ -129,10 +129,9 @@ Sometimes raw data isn’t enough. I created new features to get deeper insights
 ## Bonus Visualization
 
 ### Average Price per Sqft in Top 10 Cities  
-This chart shows where every square foot really costs you—NYC, LA, and Miami lead the pack.  
+This chart shows where every square foot really costs you—NYC, LA, and Miami lead the pack.  <img width="413" alt="Image" src="https://github.com/user-attachments/assets/22a48a18-f656-411e-9844-fdc640c99d4d" />
 *Lollipop chart that visually pops*
 
-<img width="413" alt="Image" src="https://github.com/user-attachments/assets/22a48a18-f656-411e-9844-fdc640c99d4d" />
 
 ---
 
