@@ -150,7 +150,7 @@ Here’s what this analysis taught me (and hopefully you too):
 ## Dataset Details
 
 - Name: **USA Real Estate Dataset**  
-- Source: [Kaggle Dataset](#) *(https://www.kaggle.com/code/abusufianorg/usa-real-estate-analysis)*  
+- Source: [Kaggle Dataset](https://www.kaggle.com/code/abusufianorg/usa-real-estate-analysis)  
 - Shape of dataset: (2226382, 12)  
 - Key columns: `price`, `bed`, `bath`, `acre_lot`, `house_size`, `city`, `state`, `zip_code`
 
